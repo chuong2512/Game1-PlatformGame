@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hero_Hurt
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -18,17 +18,19 @@ AnimationClip:
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
     - time: 0
-      value: {fileID: 21300000, guid: 95655891117dcfd4cb33051374f531ae, type: 3}
+      value: {fileID: 21300000, guid: 08c0e4e83f5aa06478f8c0ebeb0fd0b9, type: 3}
     - time: 0.083333336
-      value: {fileID: 21300002, guid: 95655891117dcfd4cb33051374f531ae, type: 3}
+      value: {fileID: 21300000, guid: abba121f24336174d8543775d26fc3f5, type: 3}
     - time: 0.16666667
-      value: {fileID: 21300004, guid: 95655891117dcfd4cb33051374f531ae, type: 3}
+      value: {fileID: 21300000, guid: cd9bcd783446e4948905ab1004bb2cac, type: 3}
     attribute: m_Sprite
     path: Image
     classID: 212
     script: {fileID: 0}
+    flags: 2
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
@@ -43,10 +45,12 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 95655891117dcfd4cb33051374f531ae, type: 3}
-    - {fileID: 21300002, guid: 95655891117dcfd4cb33051374f531ae, type: 3}
-    - {fileID: 21300004, guid: 95655891117dcfd4cb33051374f531ae, type: 3}
+    - {fileID: 21300000, guid: 08c0e4e83f5aa06478f8c0ebeb0fd0b9, type: 3}
+    - {fileID: 21300000, guid: abba121f24336174d8543775d26fc3f5, type: 3}
+    - {fileID: 21300000, guid: cd9bcd783446e4948905ab1004bb2cac, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
