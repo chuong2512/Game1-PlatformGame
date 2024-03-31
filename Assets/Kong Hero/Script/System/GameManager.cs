@@ -154,10 +154,10 @@ public class GameManager: MonoBehaviour {
 
         //if (ServiceManager.Instance != null)
         //	ServiceManager.Instance.ShowNormalAd();
-#if UNITY_ANDROID || UNITY_IOS
+/*#if UNITY_ANDROID || UNITY_IOS
         if (AdsManager.Instance)
             AdsManager.Instance.ShowNormalAd(State);
-#endif
+#endif*/
 	}
 
 	public void GameOver(){
@@ -191,10 +191,10 @@ public class GameManager: MonoBehaviour {
 
         //if (ServiceManager.Instance != null)
         //	ServiceManager.Instance.ShowNormalAd();
-#if UNITY_ANDROID || UNITY_IOS
+/*#if UNITY_ANDROID || UNITY_IOS
         if (AdsManager.Instance)
             AdsManager.Instance.ShowNormalAd(State);
-#endif
+#endif*/
     }
 
 	//called by MenuManager

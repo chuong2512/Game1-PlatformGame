@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: ADDPGAMES
-  productName: Kong Hero 2019
+  companyName: JungleHero
+  productName: JungleHero
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -136,7 +136,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 4.01
+  bundleVersion: 1.0
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -158,7 +158,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.addpgame.konghero
+    Android: com.JungleHero.JungleHero
     Standalone: unity.ADDPGAMES.Kong Hero
     iPhone: com.kongherokit
     tvOS: com.kongherokit
@@ -167,8 +167,8 @@ PlayerSettings:
     VisionOS: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 0
-  AndroidBundleVersionCode: 11
+  overrideDefaultApplicationIdentifier: 1
+  AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 22
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
@@ -262,8 +262,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: /WORKPLACE/Unity Project/user.keystore
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: '{inproject}: JungleHero.keystore'
+  AndroidKeyaliasName: junglehero
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
@@ -271,7 +271,7 @@ PlayerSettings:
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
-  androidUseCustomKeystore: 0
+  androidUseCustomKeystore: 1
   m_AndroidBanners:
   - width: 320
     height: 180
@@ -286,7 +286,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 07ae00ea0ecaba749b1bf148d51c7e53, type: 3}
+      m_Icon: {fileID: 2800000, guid: 92a1755405b4e684e97d81131ee572df, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -880,8 +880,9 @@ PlayerSettings:
     ErrorHub: 0
     Game_Performance: 0
     Hub: 0
-    Purchasing: 0
+    Purchasing: 1
     UNet: 1
+    Unity Ads: 0
     Unity_Ads: 0
   luminIcon:
     m_Name: 
@@ -902,11 +903,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 02caafae-0f47-4e52-b739-16b149fbbba6
+  cloudProjectId: fccd6a5b-8983-47c1-956c-2a2370ec85c7
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Kong Hero 2019
-  organizationId: phan-ba-nhut
+  organizationId: hieutg244
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   hmiLoadingImage: {fileID: 0}

@@ -20,8 +20,7 @@ public class NotEnoughCoins : MonoBehaviour
     public void ShowUp()
     {
 #if UNITY_ANDROID || UNITY_IOS
-        if (AdsManager.Instance && AdsManager.Instance.isRewardedAdReady())
-            Panel.SetActive(true);
+        Panel.SetActive(true);
 #endif
     }
 

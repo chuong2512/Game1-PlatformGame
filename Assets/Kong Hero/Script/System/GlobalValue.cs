@@ -7,6 +7,7 @@ public class GlobalValue : MonoBehaviour {
 
 	public static string WorldReached = "WorldReached";
 	public static string Coins = "Coins";
+	public static string Gems = "Gems";
 	public static string Lives = "Lives";
 	public static string Points = "Points";
 	public static string Bullets = "Bullets";
@@ -27,5 +28,14 @@ public class GlobalValue : MonoBehaviour {
 			
 			return PlayerPrefs.GetInt (Coins, 0); } 
 		set { PlayerPrefs.SetInt (Coins, value); } 
+	}
+	
+	public static int SavedGems{ 
+		get { 
+			if(!PlayerPrefs.HasKey(Gems))
+				PlayerPrefs.SetInt (Gems, 0);
+			
+			return PlayerPrefs.GetInt (Gems, 0); } 
+		set { PlayerPrefs.SetInt (Gems, value); } 
 	}
 }
