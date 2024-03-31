@@ -12,7 +12,7 @@ public class MapControllerUI : MonoBehaviour {
 	int currentPos = 0;
 	public AudioClip music;
 
-    public Button btnNext, btnPre;
+    //public Button btnNext, btnPre;
 
     void OnEnable()
     {
@@ -26,8 +26,8 @@ public class MapControllerUI : MonoBehaviour {
 
     void SetDots()
     {
-        btnNext.interactable = currentPos < howManyBlocks - 1;
-        btnPre.interactable = currentPos > 0;
+        /*btnNext.interactable = currentPos < howManyBlocks - 1;
+        btnPre.interactable = currentPos > 0;*/
     }
     
     void OnDisable()
