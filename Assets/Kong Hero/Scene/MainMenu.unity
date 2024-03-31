@@ -2759,8 +2759,6 @@ MonoBehaviour:
   howManyBlocks: 4
   step: 1280
   music: {fileID: 0}
-  btnNext: {fileID: 0}
-  btnPre: {fileID: 0}
 --- !u!1 &435726602
 GameObject:
   m_ObjectHideFlags: 0
@@ -3829,8 +3827,6 @@ MonoBehaviour:
   howManyBlocks: 4
   step: 800
   music: {fileID: 0}
-  btnNext: {fileID: 435726604}
-  btnPre: {fileID: 1995624345}
 --- !u!222 &745601992
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12254,7 +12250,7 @@ PrefabInstance:
     - target: {fileID: 114000010742529126, guid: 3e8cdb2d9a3264041936d8a30d8be2af,
         type: 3}
       propertyPath: settings.includeCounter
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114000010742529126, guid: 3e8cdb2d9a3264041936d8a30d8be2af,
         type: 3}
@@ -15430,7 +15426,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 154.5, y: 0}
   m_SizeDelta: {x: 0, y: 64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4383313571487626454
@@ -25909,7 +25905,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 526.5, y: 0}
   m_SizeDelta: {x: 0, y: 64}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &4383313572622667315
