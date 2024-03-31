@@ -7,7 +7,6 @@ public class MapControllerUI : MonoBehaviour {
 	public RectTransform BlockLevel;
 	public int howManyBlocks = 3;
 	public float step = 720f;
-	public Image[] Dots;
 	private float newPosX = 0;
 
 	int currentPos = 0;
@@ -27,14 +26,6 @@ public class MapControllerUI : MonoBehaviour {
 
     void SetDots()
     {
-        foreach(var obj in Dots)
-        {
-            obj.color = new Color(1, 1, 1, 0.5f);
-            obj.rectTransform.sizeDelta = new Vector2(28, 28);
-        }
-        Dots[currentPos].color = Color.yellow;
-        Dots[currentPos].rectTransform.sizeDelta = new Vector2(38, 38);
-
         btnNext.interactable = currentPos < howManyBlocks - 1;
         btnPre.interactable = currentPos > 0;
     }
