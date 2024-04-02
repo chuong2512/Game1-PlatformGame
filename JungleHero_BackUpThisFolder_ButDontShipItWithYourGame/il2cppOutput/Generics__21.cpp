@@ -45518,7 +45518,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmptyReadOnlyCollection_1__cctor_m1B63D1
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 45977
+// Method Definition Index: 46003
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmptyTypeFormatter_1_ReadDataEntry_mA43E63D6867E07FBF797F864DE649A862CCB111A_gshared (EmptyTypeFormatter_1_tF6B0E58A6A6791BBA9A19CA4A9CE4BA6DA1277F4* __this, Il2CppFullySharedGenericAny* ___0_value, String_t* ___1_entryName, uint8_t ___2_entryType, RuntimeObject* ___3_reader, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -45534,14 +45534,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmptyTypeFormatter_1_ReadDataEntry_mA43E
 		return;
 	}
 }
-// Method Definition Index: 45978
+// Method Definition Index: 46004
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmptyTypeFormatter_1_WriteDataEntries_mF1AFC22956E3F929447BC67665D41BB90DF25EB3_gshared (EmptyTypeFormatter_1_tF6B0E58A6A6791BBA9A19CA4A9CE4BA6DA1277F4* __this, Il2CppFullySharedGenericAny* ___0_value, RuntimeObject* ___1_writer, const RuntimeMethod* method) 
 {
 	{
 		return;
 	}
 }
-// Method Definition Index: 45979
+// Method Definition Index: 46005
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EmptyTypeFormatter_1__ctor_m32F59F6A89BE3CA217E603B39A2C7D7625E8A9EF_gshared (EmptyTypeFormatter_1_tF6B0E58A6A6791BBA9A19CA4A9CE4BA6DA1277F4* __this, const RuntimeMethod* method) 
 {
 	{
@@ -46280,7 +46280,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t EnumEqualityComparer_1_GetHashCode_m5
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 46226
+// Method Definition Index: 46252
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnumSerializer_1__cctor_m7786CD92719D9C6985652143BFFDDDD74A8CE28B_gshared (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -46322,7 +46322,7 @@ IL_0035:
 		return;
 	}
 }
-// Method Definition Index: 46227
+// Method Definition Index: 46253
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnumSerializer_1_ReadValue_m439DAE1176C6E6216F4BA112EA97AC3BFA9E27CC_gshared (EnumSerializer_1_t591F89ED7BD9A61131BD3B7B5347614DD38776C5* __this, RuntimeObject* ___0_reader, Il2CppFullySharedGenericAny* il2cppRetVal, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -46458,7 +46458,7 @@ IL_005f:
 		return;
 	}
 }
-// Method Definition Index: 46228
+// Method Definition Index: 46254
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnumSerializer_1_WriteValue_mC2AE39657DB4452F647FCC65D1A88839C9EEB797_gshared (EnumSerializer_1_t591F89ED7BD9A61131BD3B7B5347614DD38776C5* __this, String_t* ___0_name, Il2CppFullySharedGenericAny ___1_value, RuntimeObject* ___2_writer, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -46517,7 +46517,7 @@ IL_0027:
 		return;
 	}
 }
-// Method Definition Index: 46229
+// Method Definition Index: 46255
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void EnumSerializer_1__ctor_m1E026683FDA77DFB9E33463156DCD974FFCA9884_gshared (EnumSerializer_1_t591F89ED7BD9A61131BD3B7B5347614DD38776C5* __this, const RuntimeMethod* method) 
 {
 	{

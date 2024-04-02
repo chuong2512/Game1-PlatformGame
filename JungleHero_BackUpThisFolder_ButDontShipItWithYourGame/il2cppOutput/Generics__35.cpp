@@ -23959,7 +23959,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* KeyCollection_System_Collectio
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 46481
+// Method Definition Index: 46507
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyComparer_1__ctor_m72C6E560DBF12BF9FF5C5E0AB89BF9EAF10FD287_gshared (KeyComparer_1_t4F2ACC0434D3B86711B71A28908B14A4892BC694* __this, const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -24073,7 +24073,7 @@ IL_0094:
 		return;
 	}
 }
-// Method Definition Index: 46482
+// Method Definition Index: 46508
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t KeyComparer_1_Compare_mA43F31CCD31753EE38C2B9AA627BE119EF8F6F68_gshared (KeyComparer_1_t4F2ACC0434D3B86711B71A28908B14A4892BC694* __this, Il2CppFullySharedGenericAny ___0_x, Il2CppFullySharedGenericAny ___1_y, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_T_tC47F9220FB6616F5E6273284E21FF54AA82AD303 = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 11));
@@ -24089,7 +24089,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t KeyComparer_1_Compare_mA43F31CCD31753
 		return L_3;
 	}
 }
-// Method Definition Index: 46483
+// Method Definition Index: 46509
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyComparer_1__cctor_mD8997DCEE5E9F4871E9CE121692FE5703CB6B60F_gshared (const RuntimeMethod* method) 
 {
 	{
@@ -24108,7 +24108,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyComparer_1__cctor_mD8997DCEE5E9F4871E
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 56641
+// Method Definition Index: 56670
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValueCollectionPropertyBag_3__ctor_m2B0FFB3AC934F3B3B68202F8E1002B6B5E22EE30_gshared (KeyValueCollectionPropertyBag_3_tCF870BA05A86A98FBB786FA41A24B15AB3ADC415* __this, const RuntimeMethod* method) 
 {
 	{
@@ -24129,7 +24129,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValueCollectionPropertyBag_3__ctor_m2
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 46001
+// Method Definition Index: 46027
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairFormatter_2_SerializeImplementation_mBEE88AE5B07F2D5D81A767E04D06C81FE25C3375_gshared (KeyValuePairFormatter_2_tE21A4C7481801A74C97A44CA2E5CF0B401C6126B* __this, KeyValuePair_2_t28EF90BF7804CE5D7F99A364266351E7DC652669* ___0_value, RuntimeObject* ___1_writer, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_TKey_t4EA7B5B0968E3AA84C4877232E885266E1A42AD2 = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 7));
@@ -24153,7 +24153,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairFormatter_2_SerializeImpleme
 		return;
 	}
 }
-// Method Definition Index: 46002
+// Method Definition Index: 46028
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairFormatter_2_DeserializeImplementation_m241C5561CB07A3F091BC23D9AFEBA664FE3F8AE5_gshared (KeyValuePairFormatter_2_tE21A4C7481801A74C97A44CA2E5CF0B401C6126B* __this, KeyValuePair_2_t28EF90BF7804CE5D7F99A364266351E7DC652669* ___0_value, RuntimeObject* ___1_reader, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_TKey_t4EA7B5B0968E3AA84C4877232E885266E1A42AD2 = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 7));
@@ -24182,7 +24182,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairFormatter_2_DeserializeImple
 		return;
 	}
 }
-// Method Definition Index: 46003
+// Method Definition Index: 46029
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairFormatter_2__ctor_mA08821711506AA97F3064FC5DED6EEE6614DC501_gshared (KeyValuePairFormatter_2_tE21A4C7481801A74C97A44CA2E5CF0B401C6126B* __this, const RuntimeMethod* method) 
 {
 	{
@@ -24191,7 +24191,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairFormatter_2__ctor_mA08821711
 		return;
 	}
 }
-// Method Definition Index: 46004
+// Method Definition Index: 46030
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairFormatter_2__cctor_mB82342DD08DAB188A2CF58D6678212AF7BE72185_gshared (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
@@ -24221,7 +24221,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairFormatter_2__cctor_mB82342DD
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 56642
+// Method Definition Index: 56671
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* KeyValuePairProperty_get_Name_m0FC3B55BAC037F8982B7AC237B6672BF1893B726_gshared (KeyValuePairProperty_t1FD0D2BA91EB5ACD2513F7960E2C302BD70E47FA* __this, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_TKey_t1EBAA40D80FE2788705E676806E8EB90C8E6479C = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 1));
@@ -24237,7 +24237,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* KeyValuePairProperty_get_Name_m0FC3
 		return L_2;
 	}
 }
-// Method Definition Index: 56643
+// Method Definition Index: 56672
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairProperty_get_Key_m716C5EFB9A0531CE5FC3ECA8E0ED6C2900B581C6_gshared (KeyValuePairProperty_t1FD0D2BA91EB5ACD2513F7960E2C302BD70E47FA* __this, Il2CppFullySharedGenericAny* il2cppRetVal, const RuntimeMethod* method) 
 {
 	const uint32_t SizeOf_TKey_t1EBAA40D80FE2788705E676806E8EB90C8E6479C = il2cpp_codegen_sizeof(il2cpp_rgctx_data_no_init(method->klass->rgctx_data, 1));
@@ -24248,7 +24248,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairProperty_get_Key_m716C5EFB9A
 		return;
 	}
 }
-// Method Definition Index: 56644
+// Method Definition Index: 56673
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairProperty__ctor_m4AE7B72D2E09E47CFE7C18A404AF2C750F7B5E45_gshared (KeyValuePairProperty_t1FD0D2BA91EB5ACD2513F7960E2C302BD70E47FA* __this, const RuntimeMethod* method) 
 {
 	{
@@ -24264,7 +24264,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairProperty__ctor_m4AE7B72D2E09
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
-// Method Definition Index: 56645
+// Method Definition Index: 56674
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairPropertyBag_2__ctor_m4145E0D4FEFD0347C5C90E8CFBA4FCC1AD92A71E_gshared (KeyValuePairPropertyBag_2_t14F7E3ED1235C96F445409D9E1E028FC3090724E* __this, const RuntimeMethod* method) 
 {
 	{
@@ -24273,7 +24273,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairPropertyBag_2__ctor_m4145E0D
 		return;
 	}
 }
-// Method Definition Index: 56646
+// Method Definition Index: 56675
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void KeyValuePairPropertyBag_2__cctor_m441391B8BCCAFEAC9F7532FA76C0949FFEB9DBA5_gshared (const RuntimeMethod* method) 
 {
 	static bool s_Il2CppMethodInitialized;
