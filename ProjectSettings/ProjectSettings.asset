@@ -159,7 +159,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.JungleHero.JungleHero
-    Standalone: unity.ADDPGAMES.Kong Hero
+    Standalone: unity.ADDPGAMES.JungleHero
     iPhone: com.kongherokit
     tvOS: com.kongherokit
   buildNumber:
