@@ -250,12 +250,12 @@ PlayerSettings:
   clonedFromGUID: 4d437f3973842b14a80ce41c15f06b7f
   templatePackageId: 
   templateDefaultScene: 
-  useCustomMainManifest: 0
-  useCustomLauncherManifest: 0
-  useCustomMainGradleTemplate: 0
+  useCustomMainManifest: 1
+  useCustomLauncherManifest: 1
+  useCustomMainGradleTemplate: 1
   useCustomLauncherGradleManifest: 0
   useCustomBaseGradleTemplate: 0
-  useCustomGradlePropertiesTemplate: 0
+  useCustomGradlePropertiesTemplate: 1
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
   AndroidTargetArchitectures: 3
